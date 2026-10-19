@@ -1,6 +1,6 @@
 # Nina Carducci
 
-Site portfolio pour photographe professionnelle, optimisé pour les performances et le référencement (SEO).
+Optimisation du portfolio d’une photographe : performances, accessibilité, référencement local et images WebP.
 
 ## Description du projet
 
